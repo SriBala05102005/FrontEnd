@@ -1,0 +1,17 @@
+.p
+ body
+        {
+            background-color: blueviolet;
+        }
+        h1
+        {
+            color: bisque;
+            text-align: center;
+        }
+        p
+        {
+            color: bisque;
+            text-align: center;
+            font-size: medium;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
